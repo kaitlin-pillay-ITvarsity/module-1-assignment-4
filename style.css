@@ -1,0 +1,50 @@
+h1 {
+    font-family:Comic Sans MS;
+    color:000000;
+    background-color:#37CFFF;
+   
+    
+    
+
+}
+#menu-bar a {
+    font-family:Courier;
+    color:#000000;
+    padding:5px;
+
+}
+#menu-bar a:hover{
+    background-color:#9193D9;
+    color:#ffffff;
+}
+h3 {
+    font-family:Consolas;
+}
+th{
+    font-family:verdana;
+    
+    
+    
+}
+td{
+    font font-family:sans-serif;
+}
+table{
+  position: inherit;
+  border-color:#08298A;
+  border-style:dashed double none;
+  border-collapse: collapse;
+  border-width: 7px;
+  width: 1100px
+}
+h2{
+    font-size: 30px;
+    font-family: comic sans ms;
+    color:#000000;
+    background-color: #85C1E9;
+    padding:50px;
+}
+h4{
+    font-size:20px;
+    font-family:Lucida Sans; 
+}
